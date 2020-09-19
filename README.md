@@ -1,4 +1,4 @@
-# ShellScriptStudy
+# Shell Script Study
 很簡單的練習，以後要用到深入，再回頭學習
 
 login.sh
